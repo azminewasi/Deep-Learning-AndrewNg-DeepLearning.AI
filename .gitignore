@@ -7,3 +7,4 @@
 *.png
 *.json
 4 Convolutional Neural Networks/W4/W4A1/keras-facenet_tf23/.DS_Store
+*.mat
