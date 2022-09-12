@@ -14,3 +14,4 @@
 *.mp4
 4 Convolutional Neural Networks/W3/W3A2/data/.DS_Store
 */__pycache__/
+*.jfif
