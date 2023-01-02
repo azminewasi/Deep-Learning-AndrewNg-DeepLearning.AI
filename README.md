@@ -8,6 +8,10 @@ Become a Machine Learning expert. Master the fundamentals of deep learning and b
 
 ---
 
+![](Specialization_Certificate.png)
+
+---
+
 ## WHAT YOU WILL LEARN
 
 - Build and train deep neural networks, identify key architecture parameters, implement vectorized neural networks and deep learning to applications
